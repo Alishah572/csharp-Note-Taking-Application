@@ -100,5 +100,5 @@ This project is ideal for learning:
 
 ## 👨‍💻 Author
 
-Sayed Muhammad Ali Shah
-Developed as a practice project for learning C# WinForms development.
+* Sayed Muhammad Ali Shah,
+* Developed as a practice project for learning C# WinForms development.
