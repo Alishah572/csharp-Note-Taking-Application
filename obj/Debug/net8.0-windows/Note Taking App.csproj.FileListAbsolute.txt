@@ -1,0 +1,52 @@
+F:\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.exe
+F:\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.deps.json
+F:\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.runtimeconfig.json
+F:\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.dll
+F:\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.pdb
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note_Taking_App.Form1.resources
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.csproj.GenerateResource.cache
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.AssemblyInfoInputs.cache
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.AssemblyInfo.cs
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.csproj.CoreCompileInputs.cache
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.dll
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\refint\Note Taking App.dll
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.pdb
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.genruntimeconfig.cache
+F:\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\ref\Note Taking App.dll
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.exe
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.deps.json
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.runtimeconfig.json
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.dll
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.pdb
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note_Taking_App.Form1.resources
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.dll
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\refint\Note Taking App.dll
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.pdb
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\ref\Note Taking App.dll
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note_Taking_App.Properties.Resources.resources
+C:\Users\pc\OneDrive\Projects\Calculator\Note Taking App\obj\Debug\net8.0-windows\Note_Taking_App.FormEdit.resources
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.exe
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.deps.json
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.runtimeconfig.json
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.dll
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\bin\Debug\net8.0-windows\Note Taking App.pdb
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note_Taking_App.Form1.resources
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note_Taking_App.FormEdit.resources
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note_Taking_App.Properties.Resources.resources
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.dll
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\refint\Note Taking App.dll
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.pdb
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\Note Taking App.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Projects\WinForms Apps\Note Taking App\obj\Debug\net8.0-windows\ref\Note Taking App.dll
